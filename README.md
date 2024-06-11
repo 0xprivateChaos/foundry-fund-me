@@ -21,8 +21,8 @@ This project is a smart contract written in Solidity for collecting funds. Anyon
    
   ### Quickstart
   ```sh
-  git clone <repository-url>
-  cd <repository-directory>
+  git clone https://github.com/Aman09-Jat/foundry-fund-me.git
+  cd foundry-fund-me
   forge build
   ```
 
